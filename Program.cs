@@ -26,7 +26,6 @@ namespace Avaliacao1_3003_Evelyn_Henrique_JoaoPedro
     {
         static void Main(string[] args)
         {
-            List<Itens> frutas = new List<Itens>();
 
             Itens Item1 = new Itens("abacaxi", 1);
             Itens Item2 = new Itens("banana", 2);
